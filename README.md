@@ -1,2 +1,2 @@
-# WebUAV-2M
-WebUAV-2M
+# WebUAV-3M
+WebUAV-3M
