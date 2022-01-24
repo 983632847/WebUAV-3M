@@ -3,7 +3,7 @@
 
 In this work, we contribute a new million-scale Unmanned Aerial Vehicle (UAV) tracking benchmark, called WebUAV-3M. Firstly, we collect 4,485 videos with more than 3M frames from the Internet. Then, an efficient and scalable Semi-Automatic Target Annotation (SATA) pipeline is devised to label the tremendous WebUAV-3M in every frame. To the best of our knowledge, the densely bounding box annotated WebUAV-3M is by far the largest public UAV tracking benchmark. We expect to pave the way for the follow-up study in the UAV tracking by establishing a million-scale annotated benchmark covering a wide range of target categories. Moreover, considering the close connections among visual appearance, natural language and audio, we enrich WebUAV-3M by providing natural language specification and audio description, encouraging the exploration of natural language features and audio cues for UAV tracking. Equipped with this benchmark, we delve into million-scale deep UAV tracking problems, aiming to provide the community with a dedicated large-scale benchmark for training deep UAV trackers and evaluating UAV tracking approaches. Extensive experiments on WebUAV-3M demonstrate that there is still a big room for robust deep UAV tracking improvements. The dataset, toolkits and baseline results will be available at this page.
 
-![image](https://github.com/983632847/WebUAV-3M/blob/main/imgs/Representative_Videos.pdf)
+![image](https://github.com/983632847/WebUAV-3M/blob/main/imgs/Representative_Videos.png)
 
 
 ### WebUAV-3M dataset
