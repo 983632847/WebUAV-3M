@@ -31,7 +31,7 @@ Licensed under an MIT license.
 
 If you find the dataset and toolkits useful in your research, please consider citing:
 
-    @inproceedings{Chen2021MICCAI,
+    @inproceedings{WebUAV_3M_2022,
         title={WebUAV-3M: A Benchmark Unveiling the Power of Million-Scale Deep UAV Tracking},
         author = {Chunhui Zhang, and Guanjie Huang, and Li Liu, and Shan Huang, and Yinan Yang, and Yuxuan Zhang, and Xiang Wan, and Shiming Ge},
         journal = {arXiv:2201.07425},
