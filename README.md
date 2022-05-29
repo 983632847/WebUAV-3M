@@ -14,21 +14,21 @@ In this work, we contribute a new million-scale Unmanned Aerial Vehicle (UAV) tr
 
 ### WebUAV-3M dataset
 
-Download the whole dataset through Google drive: [WebUAV-3M](https://drive.google.com/drive/folders/1d3T5_O9wlwpqKPFQq8BIYvKcKtWIA1uD?usp=sharing)
+Download the whole dataset through Google drive: [WebUAV-3M]([https://drive.google.com/drive/folders/1d3T5_O9wlwpqKPFQq8BIYvKcKtWIA1uD?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSe5Usq9VUSGjKollBCI1heln_o6u4SuiMcBRn_FNqp4v2d0Kw/viewform?usp=pp_url))
 
-Download the whole dataset through Baidu Pan: [WevUAV-3M](https://github.com/983632847/WebUAV-3M)
+Download the whole dataset through Baidu Pan: [WebUAV-3M](https://github.com/983632847/WebUAV-3M)
 
 ### Evaluation toolkits
 
-Download the Evaluation Toolkits through Google drive: [WebUAV-3M](https://drive.google.com/drive/folders/1d3T5_O9wlwpqKPFQq8BIYvKcKtWIA1uD?usp=sharing)
+Download the Evaluation Toolkits through Google drive: [Evaluation Toolkits]([https://drive.google.com/drive/folders/1d3T5_O9wlwpqKPFQq8BIYvKcKtWIA1uD?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSe5Usq9VUSGjKollBCI1heln_o6u4SuiMcBRn_FNqp4v2d0Kw/viewform?usp=pp_url))
 
-Download the Evaluation Toolkits through Baidu Pan: [WevUAV-3M](https://github.com/983632847/WebUAV-3M)
+Download the Evaluation Toolkits through Baidu Pan: [Evaluation Toolkits](https://github.com/983632847/WebUAV-3M)
 
 ### Baseline results
 
-Download the Baseline Results through Google drive: [WebUAV-3M](https://drive.google.com/drive/folders/1d3T5_O9wlwpqKPFQq8BIYvKcKtWIA1uD?usp=sharing)
+Download the Baseline Results through Google drive: [Baseline Results]([https://drive.google.com/drive/folders/1d3T5_O9wlwpqKPFQq8BIYvKcKtWIA1uD?usp=sharing](https://docs.google.com/forms/d/e/1FAIpQLSe5Usq9VUSGjKollBCI1heln_o6u4SuiMcBRn_FNqp4v2d0Kw/viewform?usp=pp_url))
 
-Download the Baseline Results through Baidu Pan: [WevUAV-3M](https://github.com/983632847/WebUAV-3M)
+Download the Baseline Results through Baidu Pan: [Baseline Results](https://github.com/983632847/WebUAV-3M)
 
 
 ### Environment
