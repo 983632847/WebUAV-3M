@@ -69,8 +69,11 @@ python WebUAV-3M_UTUSC_Protocol.py
 ```
 
 ## Results of SOTA Trackers
-
-
+|Precision plot|Normalized precision plot|
+|:----:|:----:|
+|![](./imgs/precision_plots_All.png)|![](./imgs/normalized_precision_plots_All.png)|
+|**Success plot**|**Complete success plot**|
+|![](./imgs/success_plots_All.png)|![](./imgs/complete_success_plots_All.png)|
 
 ### Environment
 
@@ -92,3 +95,6 @@ If you find the dataset and toolkits useful in your research, please consider ci
 ### Acknowledgments
 Thanks for the great [[GOT-10k toolkit](https://github.com/got-10k/toolkit)]
 
+### Concat
+
+Feedbacks and comments are welcome! Feel free to contact us via [andyzhangchunhui@gmail.com](mailto:andyzhangchunhui@gmail.com) or [rasel.laffel@live.com](mailto:rasel.laffel@live.com) or [liuli@cuhk.edu.cn](mailto:liuli@cuhk.edu.cn).
