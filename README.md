@@ -23,15 +23,15 @@ The WebUAV-3M dataset contains 4500 videos, divided into three sets (*Train*/*Va
 The dataset download and file organization process are as follows：
 
 - Download the whole dataset through [Baidu Pan](https://docs.google.com/forms/d/e/1FAIpQLSe5Usq9VUSGjKollBCI1heln_o6u4SuiMcBRn_FNqp4v2d0Kw/viewform?usp=pp_url), the extraction code is ***UAV3***.
-- Download the whole dataset through [Google drive](https://github.com/983632847/WebUAV-3M), coming soon...
+- Download the whole dataset through [Google drive](https://docs.google.com/forms/d/e/1FAIpQLSe5Usq9VUSGjKollBCI1heln_o6u4SuiMcBRn_FNqp4v2d0Kw/viewform?usp=pp_url), coming soon...
 
-- Check the number of files in each set.
+- Check the number of videos in each set.
 
-  - The *Train* set should includ 3520 videos (621G)
+  - The *Train* set should include 3520 videos (621G)
 
-  - The *Val* set should includ 200 videos (28G)
+  - The *Val* set should include 200 videos (28G)
 
-  - The *Test* set should includ 780 videos (170G)
+  - The *Test* set should include 780 videos (170G)
 
 - We also provide the adversarial examples sub-set (WebUAV-3M-AE) to evaluate the robustness of trackers (optional).
 
@@ -53,9 +53,9 @@ bash UnzipWebUAV3M-AE.sh (optional)
 For Overall, Attribute, Accuracy and UTUSC Protocol evaluations in OPE using Pre, nPre, AUC, cAUC and mAcc metrics:
 
 ```Python
-# ... Run experiments on dataset ...
+# Run experiments on dataset
 
-# ... Put the results in WebUAV-3M_Evaluation_Toolkit/results/Baseline_Results
+# Put the results in WebUAV-3M_Evaluation_Toolkit/results/Baseline_Results
 
 # Report tracking performance
 
