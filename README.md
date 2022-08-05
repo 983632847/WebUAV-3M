@@ -3,6 +3,17 @@
 
 Unmanned aerial vehicle (UAV) tracking is of great significance for a wide range of applications, such as delivery and agriculture. Previous benchmarks in this area mainly focused on small-scale tracking problems while ignoring the amounts of data, types of data modalities, diversities of target categories and scenarios, and evaluation protocols involved, greatly hiding the massive power of deep UAV tracking. In this work, we propose WebUAV-3M, the largest public UAV tracking benchmark to date, to facilitate both the development and evaluation of deep UAV trackers. WebUAV-3M contains over 3.3 million frames across 4,500 videos and offers 223 highly diverse target categories. Each video is densely annotated with bounding boxes by an efficient and scalable semiautomatic target annotation (SATA) pipeline. Importantly, to take advantage of the complementary superiority of language and audio, we enrich WebUAV-3M by innovatively providing both natural language specifications and audio descriptions. We believe that such additions will greatly boost future research in terms of exploring language features and audio cues for multimodal UAV tracking. In addition, a fine-grained UAV tracking-under-scenario constraint (UTUSC) evaluation protocol and seven challenging scenario subtest sets are constructed to enable the community to develop, adapt and evaluate various types of advanced trackers. We provide extensive evaluations and detailed analyses of 43 representative trackers and envision future research directions in the field of deep UAV tracking and beyond. The dataset, toolkits and baseline results are available at this page.
 
+### Key Features
+- ***Omni-Modality***: visual bounding box, language, and audio annotations
+- ***Large-Scale***: 4500 videos, over 3 million densely annotated frames
+- ***Diverse Categories***:  12 superclasses, more than 200 target classes, over 60 motion classes
+- ***Efficient Labeling***: semi-automatic target annotation pipeline
+- ***Rigorous Evaluation***: UTUSC protocol
+- ***Multiple-Baseline***: 43 representative trackers
+- ***Unified Dataset***: train, validation, and test sets
+- ***Multi-Task Covered***: nighttime tracking, adversarial examples, multimodal tracking, data imbalances
+
+
 ![image](https://github.com/983632847/WebUAV-3M/blob/main/imgs/Representative_Videos.png)
 
 ## Changelog
