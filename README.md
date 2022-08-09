@@ -17,8 +17,9 @@ Unmanned aerial vehicle (UAV) tracking is of great significance for a wide range
 ![image](https://github.com/983632847/WebUAV-3M/blob/main/imgs/Representative_Videos.png)
 
 ## Changelog
-- Aug. 1, 2022: The WebUAV-3M Evaluation Toolkits V1.0 released.
-- Aug. 1, 2022: The Baseline Results released.
+- Aug. 9, 2022: The latest version of the paper published.
+- Aug. 1, 2022: WebUAV-3M Evaluation Toolkits V1.0 released.
+- Aug. 1, 2022: Baseline Results released.
 - Aug. 1, 2022: The WebUAV-3M dataset V1.0 released.
 
 ### TODO
