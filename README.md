@@ -34,8 +34,9 @@ The WebUAV-3M dataset contains 4500 videos, divided into three sets (*Train*/*Va
 
 The dataset download and file organization process are as follows：
 
+- To download the dataset via Baidu Pan or Google Drive, please complete a Google Form first (require a VPN in Chinese Mainland), then a download link will be automatically sent to your email.
 - Download the whole dataset through [Baidu Pan](https://docs.google.com/forms/d/e/1FAIpQLSe5Usq9VUSGjKollBCI1heln_o6u4SuiMcBRn_FNqp4v2d0Kw/viewform?usp=pp_url), the extraction code is ***UAV3***.
-- Download the whole dataset through [Google drive](https://docs.google.com/forms/d/e/1FAIpQLSe5Usq9VUSGjKollBCI1heln_o6u4SuiMcBRn_FNqp4v2d0Kw/viewform?usp=pp_url).
+- Download the whole dataset through [Google Drive](https://docs.google.com/forms/d/e/1FAIpQLSe5Usq9VUSGjKollBCI1heln_o6u4SuiMcBRn_FNqp4v2d0Kw/viewform?usp=pp_url).
 
 - Check the number of videos in each set.
 
