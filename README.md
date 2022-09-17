@@ -108,6 +108,6 @@ If you find the dataset and toolkits useful in your research, please consider ci
 ### Acknowledgments
 Thanks for the great [[GOT-10k toolkit](https://github.com/got-10k/toolkit)]
 
-### Concat
+### Contact
 
 Feedbacks and comments are welcome! Feel free to contact us via [andyzhangchunhui@gmail.com](mailto:andyzhangchunhui@gmail.com) or [rasel.laffel@live.com](mailto:rasel.laffel@live.com) or [liuli@cuhk.edu.cn](mailto:liuli@cuhk.edu.cn).
