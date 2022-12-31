@@ -55,6 +55,8 @@ The dataset download and file organization process are as follows：
 
 - We plan to release the audio annotations soon. Stay tuned.
 
+- Based on users’ feedback and needs, we plan to develop and update this dataset gradually.
+
 - Run the unzipping script, and delete the script after decompression.
 
 ```
