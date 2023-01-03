@@ -17,7 +17,7 @@ Unmanned aerial vehicle (UAV) tracking is of great significance for a wide range
 ![image](https://github.com/983632847/WebUAV-3M/blob/main/imgs/Representative_Videos.png)
 
 ## News
-- Dec. 31, 2022: The journal paper of WebUAV-3M accepted by IEEE TPAMI will be available soon.
+- Dec. 31, 2022: The journal paper of WebUAV-3M accepted by IEEE TPAMI was available.
 - Dec. 31, 2022: The Language Annotations V1.0 released.
 - Aug. 9, 2022: The latest version of the paper published.
 - Aug. 1, 2022: WebUAV-3M Evaluation Toolkits V1.0 released.
@@ -71,11 +71,11 @@ bash UnzipWebUAV3M-AE.sh (optional)
 For Overall, Attribute, Accuracy and UTUSC Protocol evaluations in OPE using Pre, nPre, AUC, cAUC and mAcc metrics:
 
 ```Python
-# Run experiments on dataset
+# Step1. Run experiments on dataset
 
-# Put the results in WebUAV-3M_Evaluation_Toolkit/results/Baseline_Results
+# Step2. Put the results in WebUAV-3M_Evaluation_Toolkit/results/Baseline_Results
 
-# Report tracking performance
+# Step3. Report tracking performance
 
 python WebUAV-3M_Overall_Evaluation.py
 
