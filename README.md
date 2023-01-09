@@ -102,11 +102,11 @@ The experiments are implemented using PyTorch or MATLAB with an Intel (R) Xeon (
 
 If you find the dataset and toolkits useful in your research, please consider citing:
 
-    @inproceedings{WebUAV_3M_2022,
+    @article{WebUAV3M2022,
         title={WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking},
-        author = {Chunhui Zhang, and Guanjie Huang, and Li Liu, and Shan Huang, and Yinan Yang, and Xiang Wan, and Shiming Ge, and Dacheng Tao},
+        author = {Chunhui Zhang and Guanjie Huang and Li Liu and Shan Huang and Yinan Yang and Xiang Wan and Shiming Ge and Dacheng Tao},
         journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
-        year = {2022}
+        year = {2022},
         doi = {10.1109/TPAMI.2022.3232854}
       }
 
