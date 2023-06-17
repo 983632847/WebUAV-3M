@@ -1,4 +1,4 @@
-# WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking [[Paper Link](https://arxiv.org/abs/2201.07425)]
+# WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking [[ArXiv](https://arxiv.org/abs/2201.07425)][[IEEE Xplore](https://ieeexplore.ieee.org/document/10004511)]
 ### Abstract
 
 Unmanned aerial vehicle (UAV) tracking is of great significance for a wide range of applications, such as delivery and agriculture. Previous benchmarks in this area mainly focused on small-scale tracking problems while ignoring the amounts of data, types of data modalities, diversities of target categories and scenarios, and evaluation protocols involved, greatly hiding the massive power of deep UAV tracking. In this work, we propose WebUAV-3M, the largest public UAV tracking benchmark to date, to facilitate both the development and evaluation of deep UAV trackers. WebUAV-3M contains over 3.3 million frames across 4,500 videos and offers 223 highly diverse target categories. Each video is densely annotated with bounding boxes by an efficient and scalable semi-automatic target annotation (SATA) pipeline. Importantly, to take advantage of the complementary superiority of language and audio, we enrich WebUAV-3M by innovatively providing both natural language specifications and audio descriptions. We believe that such additions will greatly boost future research in terms of exploring language features and audio cues for multi-modal UAV tracking. In addition, a fine-grained UAV tracking-under-scenario constraint (UTUSC) evaluation protocol and seven challenging scenario subtest sets are constructed to enable the community to develop, adapt and evaluate various types of advanced trackers. We provide extensive evaluations and detailed analyses of 43 representative trackers and envision future research directions in the field of deep UAV tracking and beyond. The dataset, toolkits and baseline results are available at this page.
@@ -102,13 +102,17 @@ The experiments are implemented using PyTorch or MATLAB with an Intel (R) Xeon (
 
 If you find the dataset and toolkits useful in your research, please consider citing:
 
-    @article{WebUAV3M2022,
-        title={WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking},
-        author = {Chunhui Zhang and Guanjie Huang and Li Liu and Shan Huang and Yinan Yang and Xiang Wan and Shiming Ge and Dacheng Tao},
-        journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
-        year = {2022},
-        doi = {10.1109/TPAMI.2022.3232854}
-      }
+    @ARTICLE{10004511,
+        author={Zhang, Chunhui and Huang, Guanjie and Liu, Li and Huang, Shan and Yang, Yinan and Wan, Xiang and Ge, Shiming and Tao, Dacheng},
+        journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+        title={WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking}, 
+        year={2023},
+        volume={45},
+        number={7},
+        pages={9186-9205},
+        doi={10.1109/TPAMI.2022.3232854}
+        }
+
 
 
 ### Acknowledgments
