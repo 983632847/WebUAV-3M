@@ -68,6 +68,47 @@ bash UnzipWebUAV3M-Test.sh
 bash UnzipWebUAV3M-AE.sh (optional)
 ```
 
+The directory should have the below format:
+```
+├── WebUAV-3M
+    ├── Test
+        ├── Video1
+            ├── img
+            ├── 000001.jpg
+            ├── absent.txt
+            ├── attributes.txt
+            ├── groundtruth_rect.txt
+            ├── language.txt
+            ├── scenario.txt
+        ├── Video2
+        ├── Video3
+        ...
+    ├── Train
+        ├── Video1
+            ├── img
+            ├── 000001.jpg
+            ├── absent.txt
+            ├── attributes.txt
+            ├── groundtruth_rect.txt
+            ├── language.txt
+            ├── scenario.txt
+        ├── Video2
+        ├── Video3
+        ...
+    ├── Val
+        ├── Video1
+            ├── img
+            ├── 000001.jpg
+            ├── absent.txt
+            ├── attributes.txt
+            ├── groundtruth_rect.txt
+            ├── language.txt
+            ├── scenario.txt
+        ├── Video2
+        ├── Video3
+        ...
+```
+
 ## How to Evaluate Performance?
 
 For Overall, Attribute, Accuracy and UTUSC Protocol evaluations in OPE using Pre, nPre, AUC, cAUC and mAcc metrics:
