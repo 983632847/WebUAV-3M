@@ -16,6 +16,9 @@ Unmanned aerial vehicle (UAV) tracking is of great significance for a wide range
 
 ![image](https://github.com/983632847/WebUAV-3M/blob/main/imgs/Representative_Videos.png)
 
+## :fire: Highlights
+Welcome to our new repository for [[Awesome Multi-modal Object Tracking (MMOT)](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)].
+
 ## News
 - Mar. 25, 2024: The audio annotations V1.0, superclass, object classes and motion classes released.
 - Dec. 31, 2022: The journal paper of WebUAV-3M accepted by IEEE TPAMI was available.
