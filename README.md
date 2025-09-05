@@ -65,10 +65,10 @@ The dataset download and file organization process are as follows：
 - Run the unzipping script, and delete the script after decompression.
 
 ```
-bash UnzipWebUAV3M-Train.sh
-bash UnzipWebUAV3M-Val.sh
-bash UnzipWebUAV3M-Test.sh
-bash UnzipWebUAV3M-AE.sh (optional)
+    bash UnzipWebUAV3M-Train.sh
+    bash UnzipWebUAV3M-Val.sh
+    bash UnzipWebUAV3M-Test.sh
+    bash UnzipWebUAV3M-AE.sh (optional)
 ```
 
 The directory should have the below format:
@@ -113,7 +113,9 @@ The directory should have the below format:
 ```
 
 ## How to Evaluate Performance?
-
+- Download the WebUAV-3M evaluation toolkit via [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1JygwsLTh1HbUGCdLb4LoBQ?pwd=MMOT), the extraction code is ***MMOT*** (Last updated on October 2024).
+- We recommend using the new [MMOT Evaluation Toolkit](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/MMOT_Evaluation_Toolkit).
+  
 For Overall, Attribute, Accuracy and UTUSC Protocol evaluations in OPE using Pre, nPre, AUC, cAUC and mAcc metrics:
 
 ```Python
@@ -123,13 +125,13 @@ For Overall, Attribute, Accuracy and UTUSC Protocol evaluations in OPE using Pre
 
 # Step3. Report tracking performance
 
-python WebUAV-3M_Overall_Evaluation.py
+    python WebUAV-3M_Overall_Evaluation.py
 
-python WebUAV-3M_Attribute_Evaluation.py
+    python WebUAV-3M_Attribute_Evaluation.py
 
-python WebUAV-3M_Accuracy_Evaluation.py
+    python WebUAV-3M_Accuracy_Evaluation.py
 
-python WebUAV-3M_UTUSC_Protocol.py
+    python WebUAV-3M_UTUSC_Protocol.py
 ```
 
 ## Results of SOTA Trackers
