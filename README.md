@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19244941.svg)](https://doi.org/10.5281/zenodo.19244941)
+
 # WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking [[ArXiv](https://arxiv.org/abs/2201.07425)][[IEEE Xplore](https://ieeexplore.ieee.org/document/10004511)]
 ### Abstract
 
