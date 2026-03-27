@@ -1,0 +1,38 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+This dataset (WebUAV-3M) is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+Summary of the License:
+You are free to:
+
+Share — copy and redistribute the material in any medium or format.
+
+Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+NonCommercial — You may not use the material for commercial purposes.
+
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full Legal Code
+The full text of the legal code can be found at:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Citation Requirement
+If you use this dataset in your research, please cite our paper:
+
+Code snippet
+@ARTICLE{10004511,
+    author={Zhang, Chunhui and Huang, Guanjie and Liu, Li and Huang, Shan and Yang, Yinan and Wan, Xiang and Ge, Shiming and Tao, Dacheng},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+    title={WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking}, 
+    year={2023},
+    volume={45},
+    number={7},
+    pages={9186-9205},
+    doi={10.1109/TPAMI.2022.3232854}
+    }
