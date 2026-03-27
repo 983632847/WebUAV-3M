@@ -169,3 +169,7 @@ Thanks for the great [[GOT-10k toolkit](https://github.com/got-10k/toolkit)]
 ### Contact
 
 Feedbacks and comments are welcome! Feel free to contact us via [andyzhangchunhui@gmail.com](mailto:andyzhangchunhui@gmail.com) or [rasel.laffel@live.com](mailto:rasel.laffel@live.com) or [liliu.math@gmail.com](mailto:liliu.math@gmail.com).
+
+### License
+This project is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
