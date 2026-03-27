@@ -170,6 +170,11 @@ Thanks for the great [[GOT-10k toolkit](https://github.com/got-10k/toolkit)]
 
 Feedbacks and comments are welcome! Feel free to contact us via [andyzhangchunhui@gmail.com](mailto:andyzhangchunhui@gmail.com) or [rasel.laffel@live.com](mailto:rasel.laffel@live.com) or [liliu.math@gmail.com](mailto:liliu.math@gmail.com).
 
+
 ### License
-This project is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+This repository contains both code and data, which are licensed separately:
+* **Source Code**: The source code is licensed under the [MIT License](LICENSE).
+* **Dataset**: The **WebUAV-3M** dataset (including video frames and annotations) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](LICENSE_DATA).
+
+>[!IMPORTANT]
+>The **WebUAV-3M dataset** is provided for **non-commercial research purposes only**.
