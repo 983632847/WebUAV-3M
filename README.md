@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19244941.svg)](https://doi.org/10.5281/zenodo.19244941)
 [![arXiv](https://img.shields.io/badge/Paper-arXiv-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2201.07425)
 
-# WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking [[ArXiv](https://arxiv.org/abs/2201.07425)][[IEEE Xplore](https://ieeexplore.ieee.org/document/10004511)][ScienceDB](https://www.scidb.cn/detail?dataSetId=ac5c6e585d4f44469d89e45699a4e8a5&version=V1)
+# WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking [[ArXiv](https://arxiv.org/abs/2201.07425)][[IEEE Xplore](https://ieeexplore.ieee.org/document/10004511)][[ScienceDB](https://www.scidb.cn/detail?dataSetId=ac5c6e585d4f44469d89e45699a4e8a5&version=V1)]
 ### Abstract
 
 Unmanned aerial vehicle (UAV) tracking is of great significance for a wide range of applications, such as delivery and agriculture. Previous benchmarks in this area mainly focused on small-scale tracking problems while ignoring the amounts of data, types of data modalities, diversities of target categories and scenarios, and evaluation protocols involved, greatly hiding the massive power of deep UAV tracking. In this work, we propose WebUAV-3M, the largest public UAV tracking benchmark to date, to facilitate both the development and evaluation of deep UAV trackers. WebUAV-3M contains over 3.3 million frames across 4,500 videos and offers 223 highly diverse target categories. Each video is densely annotated with bounding boxes by an efficient and scalable semi-automatic target annotation (SATA) pipeline. Importantly, to take advantage of the complementary superiority of language and audio, we enrich WebUAV-3M by innovatively providing both natural language specifications and audio descriptions. We believe that such additions will greatly boost future research in terms of exploring language features and audio cues for multi-modal UAV tracking. In addition, a fine-grained UAV tracking-under-scenario constraint (UTUSC) evaluation protocol and seven challenging scenario subtest sets are constructed to enable the community to develop, adapt and evaluate various types of advanced trackers. We provide extensive evaluations and detailed analyses of 43 representative trackers and envision future research directions in the field of deep UAV tracking and beyond. The dataset, toolkits and baseline results are available at this page.
@@ -46,7 +46,7 @@ The WebUAV-3M dataset contains 4500 videos, divided into three sets (*Train*/*Va
 The dataset download and file organization process are as follows：
 
 - To download the dataset via Baidu Pan or Google Drive, please complete a Google Form first (require a VPN in Chinese Mainland), then a download link will be automatically sent to your email.
-- Download the whole dataset through [ScienceDB](https://www.scidb.cn/detail?dataSetId=ac5c6e585d4f44469d89e45699a4e8a5&version=V1)
+- Download the whole dataset through [ScienceDB](https://www.scidb.cn/detail?dataSetId=ac5c6e585d4f44469d89e45699a4e8a5&version=V1).
 - Or Download the whole dataset through [Baidu Pan](https://pan.baidu.com/s/1eCdyyamoM4NZ67YeD61KCg), the extraction code is ***UAV3***.
 - Or Download the whole dataset through [Google Drive](https://docs.google.com/forms/d/e/1FAIpQLSe5Usq9VUSGjKollBCI1heln_o6u4SuiMcBRn_FNqp4v2d0Kw/viewform?usp=pp_url).
 
